@@ -6,4 +6,4 @@
 </div>
 
 - Estudante de Sistemas de Informação - Universidade Federal de Santa Catarina
-- Estagiário de Suporte TI 
+- Bolsista de QA 
