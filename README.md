@@ -12,10 +12,10 @@
 
 <br>
 <br>
-<div align="center">
+<div align="left" style="text-align: left;">
 <!-- ========================= stats ========================= -->
  <a href="https://github.com/lukasresgalla">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=lukasresgalla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasresgalla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasresgalla&layout=compact&langs_count=168&theme=dark"/>
 </a>
 
