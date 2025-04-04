@@ -14,9 +14,10 @@
 <br>
 <div align="center">
 <!-- ========================= stats ========================= -->
-  <a href="https://github.com/victoriavllso">
-<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=lukasresgalla&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasresgalla&layout=compact&langs_count=168&theme=default"/>
+ <a href="https://github.com/lukasresgalla">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=lukasresgalla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasresgalla&layout=compact&langs_count=168&theme=dark"/>
+</a>
 
 </div>
 
