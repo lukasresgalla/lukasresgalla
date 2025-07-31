@@ -24,21 +24,6 @@
 <br>
 <!-- =========================  contatos ========================= -->
 
-
-##  Contact
-
-<br>
-<div style="display: flex; align-items: center; gap: 20px;">
-  <a href="mailto:lukasresgalla@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/lukasresgalla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
-
-
 ##  Currently studying
 <!-- ========================= div estudos atuais ========================= -->
 <div style="display: flex; align-items: center; gap: 20px;">
