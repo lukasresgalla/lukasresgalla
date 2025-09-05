@@ -10,7 +10,7 @@
 
 <div>
   <h3>Projetos relevantes</h3>
-   <a><a href="https://github.com/lukasresgalla/projeto-react-native" target="_blank">FoodPark</a> é aplicativo mobile para um parque de restaurantes, onde os usuários podem consultar cardápios, visualizar descrições, adicionar itens à sacola e ver a página de eventos. Foi desenvolvido com React Native e a plataforma Expo.</a><br><br>
+   <a><a href="https://github.com/lukasresgalla/FoodPark" target="_blank">FoodPark</a> é aplicativo mobile para um parque de restaurantes, onde os usuários podem consultar cardápios, visualizar descrições, adicionar itens à sacola e ver a página de eventos. Foi desenvolvido com React Native e a plataforma Expo.</a><br><br>
    <a><a href="https://github.com/lukasresgalla/DevLinks" target="_blank">DevLinks</a> é uma página web de agregação de links, desenvolvida durante um curso da Rocketseat para praticar conceitos essenciais do desenvolvimento web, com o uso de tecnologias como HTML, CSS e Javascript. O site serve como uma central de links de interesse sobre o profissional.</a>
   
 </div>
