@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lukas Dávila Resgalla
-Atuo como QA no <a href="https://portal.bridge.ufsc.br/" target="_blank">Laboratório Bridge</a> na validação de aplicações SpringBoot com testes manuais e automatizados. Tenho experiência em testes de API (RESTful e GraphQL), exploratórios e colaboração em pipelines de CI/CD. Sou estudante na <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC)</a> e nos meus repositórios estão os projetos em que trabalhei durante meu aprendizado.<br><br>
+Atuo como Desenvolvedor Full Stack no <a href="https://portal.bridge.ufsc.br/" target="_blank">Laboratório Bridge</a> na validação de aplicações SpringBoot com testes manuais e automatizados. Tenho experiência em testes de API (RESTful e GraphQL), exploratórios e colaboração em pipelines de CI/CD. Sou estudante na <a href="https://ufsc.br/" target="_blank">Universidade Federal de Santa Catarina (UFSC)</a> e nos meus repositórios estão os projetos em que trabalhei durante meu aprendizado.<br><br>
 </div>
 
 ### Principais Projetos
